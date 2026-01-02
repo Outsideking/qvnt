@@ -1,4 +1,4 @@
-# QVNT
+# QVNT Thanva Phupingbut 244
 
 [![build](https://img.shields.io/github/actions/workflow/status/MucTepDayH16/qvnt/unit-tests.yml?style=for-the-badge&logo=github&label=build/tests)](https://github.com/MucTepDayH16/qvnt/actions/workflows/unit-tests.yml)
 [![rustc](https://img.shields.io/badge/rustc-1.58.1+-blue?style=for-the-badge&logo=rust)](https://www.rust-lang.org)
